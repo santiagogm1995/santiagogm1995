@@ -8,7 +8,7 @@
 
 ## ⚡ Technologies
 
-![SAP BTP](https://img.shields.io/badge/-SAP%20Business%20Technology%20Platform-white?style=flat-square&logo=SAP)
+![SAP BTP](https://img.shields.io/badge/-SAP%20Business%20Technology%20Platform-black?style=flat-square&logo=SAP)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
