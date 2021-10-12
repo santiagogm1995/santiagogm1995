@@ -34,4 +34,5 @@
 
 <br/>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=santiagogm1995)
+![Made with love in Spain](https://madewithlove.now.sh/es?heart=true)<br/>
+![VisitorCount](https://profile-counter.glitch.me/santiagogm1995/count.svg)
