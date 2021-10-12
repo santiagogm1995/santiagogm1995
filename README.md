@@ -24,7 +24,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-### Now Playing 🎧
+### 🎧 Now Playing 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=u76tjyzj9e5wpyqpom127wivv&cover_image=true&theme=natemoo-re&bar_color=00fbff)](https://github.com/kittinan/spotify-github-profile)
 
