@@ -29,6 +29,5 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=u76tjyzj9e5wpyqpom127wivv&cover_image=true&theme=natemoo-re&bar_color=00fbff)](https://github.com/kittinan/spotify-github-profile)
 
 <br/>
----
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=santiagogm1995)
