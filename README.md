@@ -4,7 +4,7 @@
 
 ## :alien: Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagogm1995&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagogm1995&layout=compact&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ⚡ Technologies
 
