@@ -24,5 +24,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/u76tjyzj9e5wpyqpom127wivv)
+<br/>
+---
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=santiagogm1995)
