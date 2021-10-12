@@ -1,4 +1,4 @@
-### Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=santiagogm1995)
+### Hi there 👋 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santiagogm1995&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
@@ -22,3 +22,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=santiagogm1995)
