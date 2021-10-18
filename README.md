@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-<script
-src="https://cdn.cai.tools.sap/webchat/webchat.js"
-channelId="be2080e7-74ea-4b62-9b13-06c5b7132a12"
-token="735f33c2ff6acac1cdf0f2af5b0e93b4"
-id="cai-webchat">
-</script>
-
 [![Santiago's github stats](https://github-readme-stats.vercel.app/api?username=santiagogm1995&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :alien: Top Languages
