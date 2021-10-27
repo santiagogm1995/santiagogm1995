@@ -2,6 +2,10 @@
 
 [![Santiago's github stats](https://github-readme-stats.vercel.app/api?username=santiagogm1995&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
+## Social
+
+- [![Linkedin](https://img.shields.io/badge/-Linkedin-black?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/santiago-gonzález-mota)
+
 ## :alien: Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagogm1995&layout=compact&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
@@ -36,3 +40,4 @@
 
 ![Made with love in Spain](https://madewithlove.now.sh/es?heart=true)<br/>
 ![VisitorCount](https://profile-counter.glitch.me/santiagogm1995/count.svg)
+
